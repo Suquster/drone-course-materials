@@ -1,0 +1,17 @@
+# YOLOv5 坦克目标检测数据集配置
+# ============================================================
+# 学生: 莫仁鹰 (学号: 2023212167)
+# 课程: 智能无人飞行器的设计与应用
+# 任务: 坦克目标检测 (Tank Detection)
+# 数据集: 613张训练图片 + 218张验证图片
+# ============================================================
+
+# Train/val/test sets
+path: ./datasets  # dataset root dir
+train: images/train  # 训练集图片 (613张)
+val: images/val  # 验证集图片 (218张)
+test:  # test images (optional)
+
+# Classes
+names:
+  0: tank
