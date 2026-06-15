@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC Pin=C15-1
+Removed Pin From Net: NetName=VCC Pin=C16-1
+Removed Pin From Net: NetName=VCC Pin=C17-1
+Removed Pin From Net: NetName=VCC Pin=C18-1
+Removed Pin From Net: NetName=VCC Pin=USB1-1
+Removed Pin From Net: NetName=VCC Pin=USB2-1
+Added Pin To Net: NetName=VCC_5V Pin=C15-1
+Added Pin To Net: NetName=VCC_5V Pin=C16-1
+Added Pin To Net: NetName=VCC_5V Pin=C17-1
+Added Pin To Net: NetName=VCC_5V Pin=C18-1
+Added Pin To Net: NetName=VCC_5V Pin=USB1-1
+Added Pin To Net: NetName=VCC_5V Pin=USB2-1
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C16 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D4 BLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R9 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R11 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component U2 EC200TCNDA-N06-SNNSA

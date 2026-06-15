@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=D4_N Pin=U3-1
+Removed Pin From Net: NetName=D4_P Pin=U3-2
+Removed Pin From Net: NetName=VCC_5V Pin=USB2-1
+Removed Pin From Net: NetName=GND Pin=USB2-4
+Removed Pin From Net: NetName=GND Pin=USB2-4
+Removed Pin From Net: NetName=GND Pin=USB2-4
+Removed Member From Class: ClassName=RK3566pad2.0 Member=USB2
+Added Pin To Net: NetName=D4_N Pin=U3-3
+Added Pin To Net: NetName=D4_P Pin=U3-4
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C4 22uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C7 47uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C8 100nF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C9 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C10 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C11 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C13 12pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C15 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C16 47uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C17 47uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C18 0.1uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component LED1 À¶É«
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R1 1K
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R3 232k¦¸
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R5 10k¦¸
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R7 1K
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R8 1K
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R10 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R11 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R12 51R

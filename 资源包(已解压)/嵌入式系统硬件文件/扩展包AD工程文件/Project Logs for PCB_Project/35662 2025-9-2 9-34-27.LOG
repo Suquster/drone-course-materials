@@ -1,0 +1,270 @@
+Removed Pin From Net: NetName=VCC_EC20 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=VCC_EC20 Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=VCC_EC20 Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=VCC_5V Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=VCC_5V Pin=C6-2
+Removed Pin From Net: NetName=VCC_5V Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=VCC_5V Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=VCC_5V Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=VCC_5V Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=NetC1_1 Pin=L1-1
+Removed Pin From Net: NetName=VCC_EC20 Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=LED2-1
+Removed Pin From Net: NetName=VCC_5V Pin=R2-2
+Removed Pin From Net: NetName=VCC_EC20 Pin=R3-2
+Removed Pin From Net: NetName=VCC_EC20 Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=VCC_5V Pin=U1-5
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-6
+Removed Pin From Net: NetName=NetC13_1 Pin=U3-15
+Removed Pin From Net: NetName=NetC12_1 Pin=U3-16
+Removed Pin From Net: NetName=NetC12_1 Pin=X1-1
+Removed Pin From Net: NetName=NetC13_1 Pin=X1-2
+Removed Member From Class: ClassName=RK3566pad2.0 Member=LED2
+Change Component Footprint: Designator=C1 Old Footprint=C0603 New Footprint=C 0603_L
+Change Component Footprint: Designator=C2 Old Footprint=C0603 New Footprint=C 0603_L
+Change Component Footprint: Designator=C3 Old Footprint=C0603 New Footprint=C 0603_L
+Change Component Footprint: Designator=C4 Old Footprint=C0603 New Footprint=C 0603_L
+Change Component Footprint: Designator=C6 Old Footprint=C0603 New Footprint=C 0603_L
+Change Component Footprint: Designator=C5 Old Footprint=C0603 New Footprint=C 1210_L
+Change Component Footprint: Designator=L1 Old Footprint=IND-SMD_L2.5-W2.0_WPN252012H New Footprint=CDRH73
+Change Component Footprint: Designator=U1 Old Footprint=TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR New Footprint=SOP50P490X110-11N
+Change Component Comment : Designator=L1 Old Comment=2.2uH New Comment=10uH
+Change Component Comment : Designator=R4 Old Comment=4.7kΩ New Comment=10K
+Change Component Comment : Designator=R5 Old Comment=10kΩ New Comment=45.3K
+Change Component Comment : Designator=C6 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C12 Old Comment=12pF New Comment=10uF
+Change Component Comment : Designator=C13 Old Comment=12pF New Comment=10uF
+Change Component Comment : Designator=R2 Old Comment=15kΩ New Comment=30K
+Change Component Comment : Designator=C2 Old Comment=22pF New Comment=47uF
+Change Component Comment : Designator=C4 Old Comment=22uF New Comment=47uF
+Change Component Comment : Designator=C5 Old Comment=100nF New Comment=22uF X7R 25V
+Change Component Comment : Designator=C3 Old Comment=100nF New Comment=47uF
+Change Component Comment : Designator=R3 Old Comment=232kΩ New Comment=237K
+Change Component Comment : Designator=U1 Old Comment=SY8113BADC New Comment=TPS54260DGQR
+Change Component Designator: OldDesignator=C8 NewDesignator=C18
+Change Component Designator: OldDesignator=C9 NewDesignator=C19
+Change Component Designator: OldDesignator=C10 NewDesignator=C20
+Change Component Designator: OldDesignator=C11 NewDesignator=C21
+Change Component Designator: OldDesignator=C16 NewDesignator=C22
+Change Component Designator: OldDesignator=C17 NewDesignator=C23
+Change Component Designator: OldDesignator=C18 NewDesignator=C24
+Change Component Designator: OldDesignator=C19 NewDesignator=C25
+Change Component Designator: OldDesignator=D1 NewDesignator=D4
+Change Component Designator: OldDesignator=D2 NewDesignator=D5
+Change Component Designator: OldDesignator=D3 NewDesignator=D6
+Change Component Designator: OldDesignator=D4 NewDesignator=D7
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP4
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0603"; UniqueID = "\CKCXRKUT" ("\CKCXRKUT")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAPC0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0603"; UniqueID = "\RVSJFGSJ" ("\RVSJFGSJ")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAPC0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0603"; UniqueID = "\CTCTSQYN" ("\CTCTSQYN")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAPC0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C0603"; UniqueID = "\TAINYUUW" ("\TAINYUUW")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAPC0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C0603"; UniqueID = "\QLSRQAAK" ("\QLSRQAAK")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAPC0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C0603"; UniqueID = "\BZTZLCXF" ("\BZTZLCXF")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAPC0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "C 0603_L"; UniqueID = "\VRTGYDLD" ("\VRTGYDLD")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C344022"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "C 0603_L"; UniqueID = "\VBSLGURN" ("\VBSLGURN")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C344022"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND-SMD_L2.5-W2.0_WPN252012H"; UniqueID = "\YGXHLGMN" ("\YGXHLGMN")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "MHCC10040-100M-R7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R 0603_L"; UniqueID = "\AICPIUPL" ("\AICPIUPL")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RESC0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R 0603_L"; UniqueID = "\DGLWOSER" ("\DGLWOSER")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RESC0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R 0603_L"; UniqueID = "\GCWWRAAC" ("\GCWWRAAC")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RESC0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R 0603_L"; UniqueID = "\HXHNBGPU" ("\HXHNBGPU")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RESC0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"; UniqueID = "\ZRZONDWA" ("\ZRZONDWA")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TPS54260"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系下单店铺卖家 免费帮你查找封装"; Value = "联系下单店铺卖家 免费技术支持"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系下单店铺卖家 免费帮你查找封装"; Value = "联系下单店铺卖家 免费技术支持"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C 0603_L)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C344022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C 0603_L)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C344022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SMB)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝 ID：黄晶宝石"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/2A"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMB)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝 ID：黄晶宝石"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/2A"; VariantName = "[No Variations]"
+Added Component: Designator=D3(smb)
+Add component (AddParameter): Name = "Filename"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMAJ13CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "VIN"; VariantName = "[No Variations]"
+Added Component: Designator=F1(FU 1812)
+Add component (AddParameter): Name = "Part Number"; Value = "SMD1812P260TF/12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "VIN"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "RESC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "DC/DC_3V8"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(CSW1.27 SMD-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2路编码开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=VCC_5V Pin=C14-1
+Added Pin To Net: NetName=VCC_5V Pin=C15-1
+Added Pin To Net: NetName=VCC_5V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=VCC_5V Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=D1-2
+Added Pin To Net: NetName=VCC_5V Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetC1_2 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetC13_1 Pin=U3-13
+Added Pin To Net: NetName=NetC12_1 Pin=U3-14
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR7_1
+Added Pin To Net: NetName=3V3_EN Pin=SW1-4
+Added Pin To Net: NetName=3V3_EN Pin=U1-3
+Added Net: Name=3V3_EN
+Added Pin To Net: NetName=GPIO3_B0 Pin=R8-2
+Added Pin To Net: NetName=GPIO3_B0 Pin=SW1-3
+Added Net: Name=GPIO3_B0
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=U1-4
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R5-1
+Added Pin To Net: NetName=NetC8_1 Pin=U1-8
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R5-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U3-16
+Added Pin To Net: NetName=NetC10_1 Pin=X1-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U3-15
+Added Pin To Net: NetName=NetC11_1 Pin=X1-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-2
+Added Pin To Net: NetName=NetD2_2 Pin=F1-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R4-1
+Added Pin To Net: NetName=NetR2_2 Pin=U1-7
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-5
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=PGND Pin=SW1-1
+Added Pin To Net: NetName=PGND Pin=SW1-2
+Added Net: Name=PGND
+Added Pin To Net: NetName=VBAT_IN Pin=C5-1
+Added Pin To Net: NetName=VBAT_IN Pin=F1-1
+Added Pin To Net: NetName=VBAT_IN Pin=U1-2
+Added Net: Name=VBAT_IN
+Added Pin To Net: NetName=VDD3V3 Pin=C2-1
+Added Pin To Net: NetName=VDD3V3 Pin=C3-1
+Added Pin To Net: NetName=VDD3V3 Pin=C4-1
+Added Pin To Net: NetName=VDD3V3 Pin=L1-2
+Added Pin To Net: NetName=VDD3V3 Pin=R2-1
+Added Pin To Net: NetName=VDD3V3 Pin=R8-1
+Added Net: Name=VDD3V3
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C24 0.1uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C25 0.1uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D5 GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D6 GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D7 BLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component F1 SMD1812P260TF/12 12V 2.6A
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component JP4 Header 2X11
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component SW1 SW-2P
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_5

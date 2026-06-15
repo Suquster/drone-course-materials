@@ -1,0 +1,8 @@
+Added Component: Designator=JP1(MX1.25-WT-3P)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWM_OUT Pin=JP1-1
+Added Pin To Net: NetName=VCC_5V Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=JP1-3
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component JP1 SMA WIFI 天线接口

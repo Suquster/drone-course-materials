@@ -1,0 +1,19 @@
+Change Component Comment : Designator=R13 Old Comment=4.7K New Comment=1K
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "Modem"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_EC20 Pin=C2-2
+Added Pin To Net: NetName=VCC_EC20 Pin=C3-2
+Added Pin To Net: NetName=VCC_EC20 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=VCC_EC20 Pin=L1-2
+Added Pin To Net: NetName=VCC_EC20 Pin=R2-2
+Added Pin To Net: NetName=VCC_EC20 Pin=R3-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U2-7
+Added Net: Name=NetC?_1
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 47uF

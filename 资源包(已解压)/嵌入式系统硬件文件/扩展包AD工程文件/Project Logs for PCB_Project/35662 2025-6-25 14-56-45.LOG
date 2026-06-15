@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=PIX_TX Pin=R10-2
+Removed Pin From Net: NetName=PIX_RX Pin=R11-2
+Removed Member From Class: ClassName=RK3566pad2.0 Member=R10
+Removed Member From Class: ClassName=RK3566pad2.0 Member=R11
+Added Pin To Net: NetName=PIX_RX Pin=JP3-8
+Added Pin To Net: NetName=PIX_TX Pin=JP3-10
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 100nF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D? GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D? GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D? GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R? 1K
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R? 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R? 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R? 51R
