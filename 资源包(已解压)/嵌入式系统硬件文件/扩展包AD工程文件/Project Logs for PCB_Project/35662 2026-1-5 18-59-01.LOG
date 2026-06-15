@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=USIM_VDD Pin=C19-1
+Removed Pin From Net: NetName=USIM_VDD Pin=C20-1
+Removed Pin From Net: NetName=USIM_VDD Pin=C21-1
+Removed Pin From Net: NetName=USIM_VDD Pin=J1-C2
+Removed Pin From Net: NetName=USIM_VDD Pin=J1-C3
+Removed Pin From Net: NetName=USIM_VDD Pin=J1-C7
+Removed Pin From Net: NetName=USIM_VDD Pin=R8-2
+Removed Pin From Net: NetName=USIM_VDD Pin=R9-2
+Removed Pin From Net: NetName=USIM_VDD Pin=R10-2
+Removed Pin From Net: NetName=USIM_VDD Pin=R11-1
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=J1-C2
+Added Pin To Net: NetName=NetC19_1 Pin=R10-2
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=J1-C3
+Added Pin To Net: NetName=NetC20_1 Pin=R9-2
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=J1-CD
+Added Pin To Net: NetName=NetC21_1 Pin=R8-2
+Added Pin To Net: NetName=NetC21_1 Pin=R11-1
+Added Net: Name=NetC21_1
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component JP2 HDR-1X2
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component JP4 HDR-1X3
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R8 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R11 10K

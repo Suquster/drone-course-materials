@@ -1,0 +1,266 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=VCC_5V Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=USIM_VDD Pin=C57-1
+Removed Pin From Net: NetName=GND Pin=C57-2
+Removed Pin From Net: NetName=GND Pin=C58-1
+Removed Pin From Net: NetName=USIM_RST Pin=C58-2
+Removed Pin From Net: NetName=GND Pin=C59-1
+Removed Pin From Net: NetName=USIM_CLK Pin=C59-2
+Removed Pin From Net: NetName=GND Pin=C60-1
+Removed Pin From Net: NetName=USIM_DATA Pin=C60-2
+Removed Pin From Net: NetName=GND Pin=C66-1
+Removed Pin From Net: NetName=GND Pin=CARD1-1
+Removed Pin From Net: NetName=GND Pin=CARD1-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=CARD1-C1
+Removed Pin From Net: NetName=USIM_RST Pin=CARD1-C2
+Removed Pin From Net: NetName=USIM_CLK Pin=CARD1-C3
+Removed Pin From Net: NetName=GND Pin=CARD1-C5
+Removed Pin From Net: NetName=USIM_VDD Pin=CARD1-C6
+Removed Pin From Net: NetName=USIM_DATA Pin=CARD1-C7
+Removed Pin From Net: NetName=GND Pin=D12-1
+Removed Pin From Net: NetName=USIM_RST Pin=D12-2
+Removed Pin From Net: NetName=GND Pin=D13-1
+Removed Pin From Net: NetName=USIM_CLK Pin=D13-2
+Removed Pin From Net: NetName=GND Pin=D14-1
+Removed Pin From Net: NetName=USIM_DATA Pin=D14-2
+Removed Pin From Net: NetName=GND Pin=LED5-2
+Removed Pin From Net: NetName=GND Pin=LED6-2
+Removed Pin From Net: NetName=VCC_EC20 Pin=Q1-2
+Removed Pin From Net: NetName=VCC_5V Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R12-2
+Removed Pin From Net: NetName=EC20_EN Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=USIM_DATA Pin=R37-1
+Removed Pin From Net: NetName=USIM_VDD Pin=R37-2
+Removed Pin From Net: NetName=GND Pin=R39-1
+Removed Pin From Net: NetName=USIM_RST Pin=R39-2
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=USIM_CLK Pin=R40-2
+Removed Pin From Net: NetName=USIM_DATA Pin=U1-15
+Removed Pin From Net: NetName=USIM_RST Pin=U1-17
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=VCC_5V Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Pin From Net: NetName=VCC_5V Pin=U4-11
+Removed Pin From Net: NetName=GND Pin=USB1-1
+Removed Pin From Net: NetName=GND Pin=USB3-1
+Removed Member From Class: ClassName=RK3566pad1.0 Member=C4
+Removed Member From Class: ClassName=RK3566pad1.0 Member=C5
+Removed Member From Class: ClassName=RK3566pad1.0 Member=C6
+Removed Member From Class: ClassName=RK3566pad1.0 Member=C57
+Removed Member From Class: ClassName=RK3566pad1.0 Member=C58
+Removed Member From Class: ClassName=RK3566pad1.0 Member=C59
+Removed Member From Class: ClassName=RK3566pad1.0 Member=C60
+Removed Member From Class: ClassName=RK3566pad1.0 Member=C65
+Removed Member From Class: ClassName=RK3566pad1.0 Member=C66
+Removed Member From Class: ClassName=RK3566pad1.0 Member=CARD1
+Removed Member From Class: ClassName=RK3566pad1.0 Member=D12
+Removed Member From Class: ClassName=RK3566pad1.0 Member=D13
+Removed Member From Class: ClassName=RK3566pad1.0 Member=D14
+Removed Member From Class: ClassName=RK3566pad1.0 Member=LED5
+Removed Member From Class: ClassName=RK3566pad1.0 Member=LED6
+Removed Member From Class: ClassName=RK3566pad1.0 Member=Q1
+Removed Member From Class: ClassName=RK3566pad1.0 Member=Q2
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R5
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R6
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R7
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R8
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R12
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R13
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R14
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R35
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R36
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R37
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R39
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R40
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R42
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R43
+Removed Member From Class: ClassName=RK3566pad1.0 Member=R44
+Removed Member From Class: ClassName=RK3566pad1.0 Member=U3
+Change Footprint: Cannot match pads with new footprint in component :JP1 Footprint:COAXIAL/SMD/CON/V/I-PEX/W08-5801
+Change Component Footprint: Designator=LED7 Old Footprint=LED0603_R New Footprint=LED 0603B
+Change Component Footprint: Designator=C1 Old Footprint=R0402 New Footprint=C0603
+Change Component Footprint: Designator=C2 Old Footprint=R0402 New Footprint=C0603
+Change Component Footprint: Designator=R1 Old Footprint=R0402 New Footprint=R 0603_L
+Change Component Footprint: Designator=R2 Old Footprint=R0402 New Footprint=R 0603_L
+Change Component Footprint: Designator=R3 Old Footprint=R0402 New Footprint=R 0603_L
+Change Component Footprint: Designator=R4 Old Footprint=R0402 New Footprint=R 0603_L
+Change Component Footprint: Designator=R9 Old Footprint=R0402 New Footprint=R 0603_L
+Change Component Footprint: Designator=C3 Old Footprint=r0603 New Footprint=C0603
+Change Component Footprint: Designator=C11 Old Footprint=r0603 New Footprint=C0603
+Change Component Footprint: Designator=C12 Old Footprint=r0603 New Footprint=C0603
+Change Component Footprint: Designator=C13 Old Footprint=r0603 New Footprint=C0603
+Change Component Comment : Designator=C9 Old Comment=12pF New Comment=10uF
+Change Component Comment : Designator=C10 Old Comment=12pF New Comment=10uF
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "Modem"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "Modem"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C344022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C344022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "Modem"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C344022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "Modem"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0603_L)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C344022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD-323)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "欢迎光临"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD-323)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "欢迎光临"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD-323)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "欢迎光临"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD-323)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "欢迎光临"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=J?(NANO SIM)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SIM8066-6-1-14-01-A/Global%20Connector%20Technology/view-part/5720957/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SIM8066-6-1-14-01-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SIM8066-6-1-14-01-A/Global%20Connector%20Technology/view-part/5720957/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "RESC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "Modem"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "RESC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "Modem"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "当前库版本V2022.10.7 @黄晶宝石"; Value = "最新版本发布https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "RESC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "Modem"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603_L)
+Add component (AddParameter): Name = "Part Number"; Value = "RESC0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROOM"; Value = "Modem"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USIM_VDD Pin=C?-1
+Added Pin To Net: NetName=USIM_VDD Pin=C?-1
+Added Pin To Net: NetName=USIM_VDD Pin=C?-1
+Added Pin To Net: NetName=USIM_VDD Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=USIM_CLK Pin=D?-2
+Added Pin To Net: NetName=USIM_DATA Pin=D?-2
+Added Pin To Net: NetName=USIM_RST Pin=D?-2
+Added Pin To Net: NetName=USIM_VDD Pin=D?-2
+Added Pin To Net: NetName=USIM_VDD Pin=J?-C1
+Added Pin To Net: NetName=USIM_VDD Pin=J?-C2
+Added Pin To Net: NetName=USIM_VDD Pin=J?-C3
+Added Pin To Net: NetName=GND Pin=J?-C5
+Added Pin To Net: NetName=USIM_VDD Pin=J?-C7
+Added Pin To Net: NetName=GND Pin=J?-G1
+Added Pin To Net: NetName=GND Pin=J?-G2
+Added Pin To Net: NetName=GND Pin=J?-G3
+Added Pin To Net: NetName=GND Pin=J?-G4
+Add Pin To Net: Unknown Pin: Pin JP1-3
+Added Pin To Net: NetName=USIM_CLK Pin=R?-1
+Added Pin To Net: NetName=USIM_DATA Pin=R?-1
+Added Pin To Net: NetName=USIM_RST Pin=R?-1
+Added Pin To Net: NetName=USIM_VDD Pin=R?-1
+Added Pin To Net: NetName=USIM_VDD Pin=R?-2
+Added Pin To Net: NetName=USIM_VDD Pin=R?-2
+Added Pin To Net: NetName=USIM_VDD Pin=R?-2
+Added Pin To Net: NetName=USIM_VDD Pin=R?-2
+Added Pin To Net: NetName=VCC_5V Pin=R?-2
+Added Pin To Net: NetName=USIM_RST Pin=U1-15
+Added Pin To Net: NetName=USIM_DATA Pin=U1-17
+Added Pin To Net: NetName=VCC_5V Pin=U1-71
+Added Pin To Net: NetName=DGND-N Pin=D?-1
+Added Pin To Net: NetName=DGND-N Pin=D?-1
+Added Pin To Net: NetName=DGND-N Pin=D?-1
+Added Pin To Net: NetName=DGND-N Pin=D?-1
+Added Net: Name=DGND-N
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U1-20
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=U4-11
+Added Pin To Net: NetName=VCC Pin=USB1-1
+Added Pin To Net: NetName=VCC Pin=USB3-1
+Added Net: Name=VCC
+Change Class Name : Old Net Name=RK3566pad1.0 New Net Name=RK3566pad2.0
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 100nF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C? 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D? GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D? BLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D? GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D? GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component J? SIM8066-6-1-14-01-A_REVA
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R? 10K
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R? 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R? 1K
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R? 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R? 51R
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6

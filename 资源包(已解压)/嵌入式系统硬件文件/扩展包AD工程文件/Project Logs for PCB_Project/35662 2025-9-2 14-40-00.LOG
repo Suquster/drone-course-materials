@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VCC_5V Pin=D2-1
+Removed Member From Class: ClassName=RK3566pad2.0 Member=SW1
+Add component: Footprint Not Found MX 1.25-WI-2P
+Added Pin To Net: NetName=VCC_EC20 Pin=C2-1
+Added Pin To Net: NetName=VCC_EC20 Pin=C3-1
+Added Pin To Net: NetName=VCC_EC20 Pin=C4-1
+Add Pin To Net: Unknown Pin: Pin JP?-1
+Added Pin To Net: NetName=VCC_EC20 Pin=L1-2
+Added Pin To Net: NetName=VCC_EC20 Pin=R2-1
+Added Pin To Net: NetName=12VIN Pin=D2-1
+Added Net: Name=12VIN
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C8 15pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C9 3.3nF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C10 12pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C11 12pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C16 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C17 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C18 100nF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C19 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C20 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C21 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C22 47uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C23 47uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D1 SS24
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D2 B360B
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D3 SMBJ18CA
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component JP1 SMA WIFI 天线接口
+Add Class Member: Failed to add class member : Component JP? HDR-1X2
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R6 1K
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R7 1K
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R11 51R

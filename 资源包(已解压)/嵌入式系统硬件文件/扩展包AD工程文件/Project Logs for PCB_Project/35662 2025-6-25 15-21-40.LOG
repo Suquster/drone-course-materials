@@ -1,0 +1,43 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=R9 NewDesignator=R5
+Change Component Designator: OldDesignator=R31 NewDesignator=R6
+Change Component Designator: OldDesignator=R34 NewDesignator=R8
+Change Component Designator: OldDesignator=R38 NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=USB3 NewDesignator=USB2
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR34_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR7_1
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C4 100nF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C5 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C6 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C14 33pF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C15 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C17 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component C18 10uF
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D1 GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D2 GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component D3 GBLC05CI
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R7 1K
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R9 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R10 51R
+Added Member To Class: ClassName=RK3566pad2.0 Member=Component R12 10K
