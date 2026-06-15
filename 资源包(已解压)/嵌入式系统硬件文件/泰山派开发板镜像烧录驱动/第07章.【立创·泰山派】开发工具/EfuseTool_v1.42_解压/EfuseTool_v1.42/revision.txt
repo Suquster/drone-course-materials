@@ -1,0 +1,8 @@
+v1.4 revision(20191209):
+1.fix get wrong key hash when you select 3288 and 3399 firmware
+
+v1.41 revision(20200217):
+1.fix get key hash bug on 3229P
+
+v1.42 revision(20200409):
+1.support 356X

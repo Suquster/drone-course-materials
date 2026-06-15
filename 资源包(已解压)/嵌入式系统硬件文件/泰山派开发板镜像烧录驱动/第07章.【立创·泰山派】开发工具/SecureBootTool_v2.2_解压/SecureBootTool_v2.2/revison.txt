@@ -1,0 +1,9 @@
+v2.0 revision(2021/07/23):
+1.add 3566|3568 support
+2.add check loader function
+
+v2.1 revision(2021/09/02):
+1.support to sign ddr test file on 356X
+
+v2.2 revision(2021/11/12):
+1.add 3588 support
